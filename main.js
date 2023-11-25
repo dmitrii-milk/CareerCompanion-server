@@ -1,5 +1,3 @@
-'use strict';
-
 const fsp = require('node:fs').promises;
 const path = require('node:path');
 const { transport } = require('./config');

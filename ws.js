@@ -1,5 +1,3 @@
-'use strict';
-
 const { Server } = require('ws');
 const console = require('./logger');
 
